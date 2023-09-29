@@ -50,7 +50,7 @@ Es un lenguaje de código que se utiliza para programar páginas web.
 </html>
 ```
 
-7. ¿Qué es CSS?
+7. ¿Qué es ```CSS```?
 
 Es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva.
 
