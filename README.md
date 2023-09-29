@@ -22,11 +22,13 @@ Es una herramienta que permite diferentes servicios digitales, por ejemplo: Word
 5. [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
 
 | Aplicaciones | Visto |
+|---------------|---------------|
 | Google Docs | ![Tick](https://github.com/loltop776/SMX2_M8_UF1_A2_JesusFortea/blob/main/Tick.jpg "Tick") |
 | Google Slides | ![Tick2](https://github.com/loltop776/SMX2_M8_UF1_A2_JesusFortea/blob/main/Tick.jpg "Tick2") |
 | Google Sheets | ![Tick3](https://github.com/loltop776/SMX2_M8_UF1_A2_JesusFortea/blob/main/Tick.jpg "Tick3") |
 | Google Calendar | ![Google Calendar](https://github.com/loltop776/SMX2_M8_UF1_A2_JesusFortea/blob/main/Google%20Calendar.jpg "Google Calendar") |
 | Google Meet | ![Goggle Meet](https://github.com/loltop776/SMX2_M8_UF1_A2_JesusFortea/blob/main/Google%20Meet.jpg "Google Meet") |
+| ... | ... |
 
 
 6. ¿Qué es html?
