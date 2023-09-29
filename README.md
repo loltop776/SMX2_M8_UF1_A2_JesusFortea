@@ -57,3 +57,4 @@ Es uno de los lenguajes más importantes que se utilizan para ordenar las instru
 
 8. Flujo de trabajo (navegador, petición servidor y respuesta):
 
+[Fotoej8](https://github.com/loltop776/SMX2_M8_UF1_A2_JesusFortea/blob/main/Foto%20ej8.jpg "Fotoej8")
