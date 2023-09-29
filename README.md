@@ -31,7 +31,7 @@ Es una herramienta que permite diferentes servicios digitales, por ejemplo: Word
 | ... | ... |
 
 
-6. ¿Qué es html?
+6. ¿Qué es ```HTML```?
 
 Es un lenguaje de código que se utiliza para programar páginas web.
 
